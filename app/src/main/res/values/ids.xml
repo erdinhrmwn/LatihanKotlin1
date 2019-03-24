@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_fullname" type="id"/>
+    <item name="et_username" type="id"/>
+    <item name="tv_username" type="id"/>
+    <item name="et_password" type="id"/>
+    <item name="tv_password" type="id"/>
+    <item name="btn" type="id"/>
+    <item name="tv_ca" type="id"/>
+    <item name="tv_reg" type="id"/>
+    <item name="uname" type="id"/>
+</resources>
